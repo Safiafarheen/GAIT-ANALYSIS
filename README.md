@@ -68,7 +68,3 @@ streamlit run enhanced_gait_analysis.py
 **Safia Farheen ZR**  
 Java Full Stack Developer | AI Enthusiast | Capgemini-TNS Trained  
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
